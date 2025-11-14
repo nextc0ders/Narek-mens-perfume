@@ -1,4 +1,4 @@
-[
+const CATALOG = [
 	{
 		"id": "el1",
 		"name": "Burberry Hero Parfum Intense",
@@ -66,4 +66,4 @@
 		"img": "img/catalog/hermes.png",
 		"price": 999
 	}
-]
+];
