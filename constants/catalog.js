@@ -3,19 +3,19 @@ const CATALOG = [
 		"id": "el1",
 		"name": "Burberry Hero Parfum Intense",
 		"img": "img/catalog/Burberry_Hero_Parfum_Intense.jpg",
-		"price": 999
+		"price": 9999
 	},
 	{
 		"id": "el2",
 		"name": "Creed Aventus",
 		"img": "img/catalog/Creed_v.jpg",
-		"price": 999
+		"price": 12000
 	},
 	{
 		"id": "el3",
 		"name": "Christian Dior Sauvage 2015",
 		"img": "img/catalog/Christian_Dior_Parfum_a.jpg",
-		"price": 999
+		"price": 130000
 	},
 	{
 		"id": "el4",
