@@ -11,7 +11,7 @@ class LocalStorageUtil {
 		return [];
 	}
 
-	putProducts() {
+	putProducts(id) {
 		let products = this.getProducts();
 		let pushProduct = false;
 		const index = products.indexOf(id);
