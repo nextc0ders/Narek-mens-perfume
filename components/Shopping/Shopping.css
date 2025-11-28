@@ -27,3 +27,24 @@
 	border-radius: 10px;
 	cursor: pointer;
 }
+
+.shopping__close {
+	cursor: pointer;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.shopping__close svg {
+	height: 40px;
+	width: 50px;
+	padding: 8px;
+	/* border-top-right-radius: 14px; */
+	transition: .3s ease-in-out;
+}
+.shopping__close:hover svg {
+	fill: white;
+	background: red;
+}
