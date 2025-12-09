@@ -7,6 +7,9 @@
 	--color-white: #fff;
 	--color-unaccent: #808080;
 	--color-medium: #ddd;
+	--color-dark: #a1a1a1;
+	--error-color-light: #ff6256;
+	--error-color-dark: #d32f2f;
 
 	--spacing-small: 10px;
 	--spacing-medium: 15px;
@@ -25,5 +28,5 @@ body {
 	padding: 0;
 	font-family: sans-serif;
 	line-height: 1.7;
-	background: #333;
+	background: var(--color-light);
 }
